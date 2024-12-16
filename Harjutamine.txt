@@ -1,2 +1,0 @@
-Tulevikus kasutatakse GitHubi koodihalduseks keerukates projektides, sealhulgas tehisintellekti ja arenduste automatiseerimisel.
-See on ka oluline tööriist ülemaailmsetele meeskondadele koostöö tegemiseks ning arendus- ja juurutamisprotsesside automatiseerimiseks.
