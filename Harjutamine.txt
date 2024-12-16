@@ -1,2 +1,4 @@
 Tulevikus kasutatakse GitHubi koodihalduseks keerukates projektides, sealhulgas tehisintellekti ja arenduste automatiseerimisel.
 See on ka oluline tööriist ülemaailmsetele meeskondadele koostöö tegemiseks ning arendus- ja juurutamisprotsesside automatiseerimiseks.
+GitHub Inc. asutasid 2008. aastal kolm arendajat: Tom Preston-Werr, Greg Koa ja Scott Chacon.
+GitHub sai avalikult kättesaadavaks 2008. aasta aprillis. See loodi algselt Giti versioonikontrollisüsteemi hõlpsamaks kasutamiseks ja sellest ajast on saanud suurim hostimise ja koodide koostöö platvorm.
