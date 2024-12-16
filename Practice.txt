@@ -1,4 +1,0 @@
-GitHub on veebiteenus koodihoidlate majutamiseks ja haldamiseks, mis kasutab Giti versioonikontrollisüsteemi. GitHub pakub arendajatele ja meeskondadele mugavat platvormi projektide kallal koostööd tegemiseks, lähtekoodi salvestamiseks ja selles tehtud muudatuste jälgimiseks.
-Programmeerijad ja arendajad – GitHubi kasutatakse projektide, eriti avatud lähtekoodiga projektide salvestamiseks, jagamiseks ja haldamiseks.
-Arendusmeeskonnad – GitHub muudab koodis koostöö tegemise, muudatuste jälgimise ja vigade parandamise lihtsaks.
-Teadlased ja üliõpilased – GitHub pakub mugavat võimalust projektidesse avatud panustamiseks, koodi jagamiseks ja tagasiside saamiseks.
